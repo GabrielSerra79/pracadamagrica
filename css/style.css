@@ -121,7 +121,7 @@ header {
     background-position: center;
     color: var(--cor-text1);
     text-align: center;
-    /* padding: 20px; */
+    padding: 20px;
     margin-top: 31px;
 }
 
