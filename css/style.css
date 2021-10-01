@@ -52,12 +52,12 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    /*box-shadow: 0 2px 7px rgba(0, 0, 255, 0.6);*/
     box-shadow: 0 2px 7px var(--cor-backGorund);
 }
 
 nav a img {
     /* margin-left: 50px; */
+    margin-top: 5px;
     width: auto;
     height: 40px;
 }
@@ -121,8 +121,8 @@ header {
     background-position: center;
     color: var(--cor-text1);
     text-align: center;
-    padding: 20px;
-    margin-top: 8vh;
+    /* padding: 20px; */
+    margin-top: 31px;
 }
 
 header h1 {
